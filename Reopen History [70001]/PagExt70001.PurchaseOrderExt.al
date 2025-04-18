@@ -8,6 +8,7 @@ pageextension 70001 PurchaseOrderExt extends "Purchase Order"
             field("Reason To ReOpen"; Rec."Reason To ReOpen")
             {
                 ApplicationArea = All;
+                //jai shree ram
             }
         }   
     }
